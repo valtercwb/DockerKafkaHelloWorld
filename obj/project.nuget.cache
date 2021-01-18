@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71JIRzW6Y6IpkUeJsA9wZHwZ00ph4kw4dFQgY0NfM/04vl7v7WYtU/0Eefv93fvGQt6+yzV5TIV5+NOMJM9FiQ==",
+  "dgSpecHash": "ew9GfqQPbr8S4iYWU0kUkwmOADAYDoqS0+BvZCThptMo0PCh7bgCCuVu3tKbqSbj3kBenZfwBt3dXdzjWMBolw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valte\\OneDrive\\Área de Trabalho\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\valte\\OneDrive\\Documentos\\GitHub\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valte\\.nuget\\packages\\confluent.kafka\\1.5.3\\confluent.kafka.1.5.3.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\fluentscheduler\\5.5.1\\fluentscheduler.5.5.1.nupkg.sha512",
@@ -37,6 +37,7 @@
     "C:\\Users\\valte\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",

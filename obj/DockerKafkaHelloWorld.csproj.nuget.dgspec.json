@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valte\\OneDrive\\Área de Trabalho\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj": {}
+    "C:\\Users\\valte\\OneDrive\\Documentos\\GitHub\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valte\\OneDrive\\Área de Trabalho\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj": {
+    "C:\\Users\\valte\\OneDrive\\Documentos\\GitHub\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valte\\OneDrive\\Área de Trabalho\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\valte\\OneDrive\\Documentos\\GitHub\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj",
         "projectName": "DockerKafkaHelloWorld",
-        "projectPath": "C:\\Users\\valte\\OneDrive\\Área de Trabalho\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj",
+        "projectPath": "C:\\Users\\valte\\OneDrive\\Documentos\\GitHub\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld.csproj",
         "packagesPath": "C:\\Users\\valte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valte\\OneDrive\\Área de Trabalho\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\valte\\OneDrive\\Documentos\\GitHub\\DockerKafkaHelloWorld\\DockerKafkaHelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -55,6 +55,10 @@
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
             },
             "kafka-sharp": {
               "target": "Package",
